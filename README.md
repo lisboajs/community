@@ -1,22 +1,18 @@
-![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
-> A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
+[Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
 
-## Upcoming meetups
 
-Check http://www.meetup.com/require-lx/
+> A Javascript [`meetup`](https://meetup.com/lisboajs/) in Lisbon, Portugal.
+
+## Upcoming Events
+
+Check http://meetup.com/lisboajs/
 
 ## Resources
 
-- [meetups](/meetups)
-- [talks (proposed and delivered)](/talks)
-- [nodeschool](/nodeschool)
-
-# Looking for NodeSchool Lisbon ?
-
-https://github.com/nodeschool/lisbon
+- [Here's a list of people who can give talks related to JavaScript and based in Portugal](https://github.com/lisboajs/speakers)
+- [Talks (proposed and delivered)](https://github.com/lisboajs/community/issues)
 
 # History
 
@@ -38,29 +34,28 @@ Use any of the following methods to communicate with us:
 
 -  Make a pull request.
 -  Open or comment in an issue.
--  **Discuss** jump on https://gitter.im/require-lx/community
--  Join the group on [`meetups`](http://www.meetup.com/require-lx/) to receive notification about when we are meeting.
+-  **Discuss** jump on https://t.me/+QDaM-zlVlaEwMjVk
+-  Join the group on [`Meetup`](http://meetup.com/lisboajs/) to receive notifications about when we are meeting.
 
 # Contribute
 
 ## Sponsorships
 
-* We are always looking for beer, snacks and food for the meetuos, developers are hungry folks :) If you are able to sponsor please reach out to us through this repo by opening a issue with the prefix "SPONSOR: "
+* We are always looking for beer, snacks and food for the events, developers are hungry folks :) If you are able to sponsor please reach out to us through this repo by [opening an issue with the label 'sponsor'](https://github.com/lisboajs/community/issues/new?labels=sponsor) or by emailing us at lisboajs@outono.org.
 
 ## Venue
 
-* If you have a Venue available to host a meetup, please do share! Open a issue in this repo with the prefix "VENUE: ".
+* If you have a venue available to host a meetup, please do share! [Open a issue in this repo with the label 'venue'](https://github.com/lisboajs/community/issues/new?labels=venue).
 
-## Talk && Workshops
+## Talks && Workshops
 
-* Submit a talk proposal by opening a issue in this repo with the prefix "TALK: ".
+* Submit a talk proposal by [opening a issue in this repo with the label 'talk'](https://github.com/lisboajs/community/issues/new?labels=talk).
+* In addition, you can also add yourself to [our list of JavaScript speakers based in Portugal](https://github.com/lisboajs/speakers), so that we and other communities can reach out to you.
 
 ## Organizers
 
- * João Jerónimo  - @joaojeronimo
- * Bruno Barreto  - @NeCkEr
- * David Dias     - @diasdavid on gh, @daviddias on tw :)
- * Fábio Oliveira - @foliveira
- * Daniela Borges - @sericaia
+ * Malik Piara  - @casapiara on Twitter & Instagram, @malikpiara on Telegram & GitHub
+ * Afonso Gonçalves  - @afonsocrg on Twitter
+ * Rui Posse     - @ruiposse on Twitter
 
-All the help is appreciated. If you would like to become an organizer and help the group grow, please contact one of the organizers.
+All the help is appreciated. If you would like to become an organizer and help the group grow, please reach out to one of the organizers.
