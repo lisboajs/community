@@ -19,9 +19,6 @@ Who would benefit most from this talk? (e.g., beginners, intermediate developers
 **Speaker Bio**
 A short bio about yourself and your experience with the topic.
 
-**Technical Requirements**
-List any specific technical requirements for your presentation (e.g., projector, audio, special software demos).
-
 **Preferred Month**
 Do you have a preferred month or date for giving this talk? If possible, share 2 options. We're planning monthly events until 2026, feel free to pick a later month.
 
