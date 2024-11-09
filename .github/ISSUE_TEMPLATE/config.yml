@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: LisboaJS Meetup Page
+    url: https://lisboajs.org/
+    about: Check out our upcoming events
+  - name: Our Telegram Community
+    url: https://lisboajs.org/join
+    about: Get to know our members.
