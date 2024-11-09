@@ -1,0 +1,50 @@
+name: Give a talk at LisboaJS
+description: Pitch a 20-minute talk at one of our events.
+title: 'Talk Title'
+labels: ['talk']
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief description of what you will cover in your talk (2-3 paragraphs max).
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: Target Audience
+      description: Who would benefit most from this talk? (e.g., beginners, intermediate developers, anyone interested in AI, etc.)
+    validations:
+      required: false
+  - type: textarea
+    id: bio
+    attributes:
+      label: Speaker Bio
+      description: A short bio about yourself and your experience with the topic.
+    validations:
+      required: true
+  - type: input
+    id: startDate
+    attributes:
+      label: Preferred Month
+      description: Do you have a preferred month or date for giving this talk? If possible, share 2 options. We're planning one event per month until 2026, feel free to pick a later month.
+      placeholder: 'May or July'
+    validations:
+      required: true
+  - type: checkboxes
+    id: first-talk
+    attributes:
+      label: This will be my first tech talk
+      description: First-time speakers are given additional support with abstract writing, slide prep, run-throughs or whatever else you may need. So if this'll be your first talk, let us know!
+      options:
+        - label: This will be my first tech talk
+          required: false
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: Code of Conduct
+      description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it.
+      options:
+        - label: I agree to follow LisboaJS [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+          required: true
