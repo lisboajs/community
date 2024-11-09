@@ -10,7 +10,7 @@ body:
       description: A brief description of what you will cover in your talk (2-3 paragraphs max).
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: audience
     attributes:
       label: Target Audience
@@ -28,7 +28,7 @@ body:
     id: startDate
     attributes:
       label: Preferred Month
-      description: Do you have a preferred month or date for giving this talk? If possible, share 2 options. We're planning one event per month until 2026, feel free to pick a later month.
+      description: Do you have a preferred month or date for giving this talk? If possible, share 2 options.
       placeholder: 'May or July'
     validations:
       required: true
