@@ -3,11 +3,11 @@
 [Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
 
 
-> A Javascript [`meetup`](https://meetup.com/lisboajs/) in Lisbon, Portugal.
+> A Javascript [`meetup`](https://lisboajs.org/) in Lisbon, Portugal.
 
-## Upcoming Events
+## 🎟️ Upcoming Events
 
-Check http://meetup.com/lisboajs/
+Check https://lisboajs.org
 
 ## Resources
 
@@ -35,7 +35,7 @@ Use any of the following methods to communicate with us:
 -  Make a pull request.
 -  Open or comment in an issue.
 -  **Discuss** jump on https://t.me/+QDaM-zlVlaEwMjVk
--  Join the group on [`Meetup`](http://meetup.com/lisboajs/) to receive notifications about when we are meeting.
+-  Join the group on [`Luma`](https://lu.ma/lisboajs) to receive notifications about when we are meeting.
 
 # Contribute
 
@@ -54,8 +54,7 @@ Use any of the following methods to communicate with us:
 
 ## Organizers
 
- * Malik Piara  - @casapiara on Twitter & Instagram, @malikpiara on Telegram & GitHub
+ * Malik Piara  - @casapiara on Twitter, @malikpiara on Telegram & GitHub
  * Afonso Gonçalves  - @afonsocrg on Twitter
- * Rui Posse     - @ruiposse on Twitter
 
 All the help is appreciated. If you would like to become an organizer and help the group grow, please reach out to one of the organizers.
