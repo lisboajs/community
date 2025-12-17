@@ -3,7 +3,7 @@
 [Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
 
 
-> A Javascript [`meetup`](https://lisboajs.org/) in Lisbon, Portugal.
+> A JavaScript [`community`](https://lisboajs.org/) in Lisbon, Portugal.
 
 ## 🎟️ Upcoming Events
 
@@ -41,11 +41,11 @@ Use any of the following methods to communicate with us:
 
 ## Sponsorships
 
-* We are always looking for beer, snacks and food for the events, developers are hungry folks :) If you are able to sponsor please reach out to us through this repo by [opening an issue with the label 'sponsor'](https://github.com/lisboajs/community/issues/new?labels=sponsor) or by emailing us at lisboajs@outono.org.
+* We are always looking for beer, snacks and food for the events, developers are hungry folks :) If you are able to sponsor please reach out to us through this repo by [opening an issue with the label 'sponsor'](https://github.com/lisboajs/community/issues/new?labels=sponsor) or by emailing us at hi@lisboajs.org.
 
 ## Venue
 
-* If you have a venue available to host a meetup, please do share! [Open a issue in this repo with the label 'venue'](https://github.com/lisboajs/community/issues/new?labels=venue).
+* If you have a venue available to host an event, please do share! [Open a issue in this repo with the label 'venue'](https://github.com/lisboajs/community/issues/new?labels=venue).
 
 ## Talks && Workshops
 
